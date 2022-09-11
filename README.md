@@ -2,7 +2,7 @@
 
 #### 1. export data from incucyte and merge the data on your computer
 1. connect to your incucyte session and export the data
-2. download the script [incucyte_merge_files_v3.ijm](https://github.com/AlexHego/cellpose_GIGA/blob/main/incucyte_merge_files_v3.ijm)
+2. download the script [incucyte_merge_files_v3.ijm](https://github.com/AlexHego/incucyte/blob/main/incucyte_merge_files_v3.ijm)
 3. download [imageJ/Fiji](https://imagej.net/software/fiji/downloads)
 4. Update ImageJ/Fiji > `Help` > `Update...`
 5. Restart ImageJ
