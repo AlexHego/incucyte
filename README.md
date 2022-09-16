@@ -7,4 +7,4 @@ Right click on `RaW`  > `Save As...`  (please save as .ijm)
 3. download [imageJ/Fiji](https://imagej.net/software/fiji/downloads)
 4. Update ImageJ/Fiji > `Help` > `Update...`
 5. Restart ImageJ
-6. Drag and drop the script and run it 
+6. Drag and drop the script into FIJI and run it 
